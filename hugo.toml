@@ -28,3 +28,19 @@ theme = 'hugo-blog-awesome'
   intro = "Rafa'Site"
   name = "Sidharth R"
   description = "Una plataforma diseñada únicamente para sacarte una sonrisa con cada clic"
+
+# Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/watch?v=dvfZ95ueOcQ&ab_channel=SelenaVEVO"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/watch?v=0C1cVATvlQk&ab_channel=LaloVega"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "index.xml"
