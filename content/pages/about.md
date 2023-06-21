@@ -1,7 +1,7 @@
 ---
-title: About
+title: Sobre el sitio
 description: 'Hugo, the world''s fastest framework for building websites'
-date: '2019-02-28'
+date: '2023-06-20'
 author: Hugo Authors
 ---
 
@@ -9,18 +9,14 @@ Rafapost está creado a base de comandos, códigos y mucho cariño.
 
 Es un sitio en el cual podrás ver lo que he denominado como "cartas virtuales" las cuales son escritas y programadas por tu servidor, cada una de las cartas que existan y existirán, estarán creadas con sentimientos puros y honestos, los cuales espero puedan brindarte una alegría cada vez que los leas.
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Además de las "cartas virtuales", también puedo dedicarte canciones aquí, pues en muchas ocasiones, los sentimientos que no podemos expresar los podemos demostrar con una canción. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Sí, te dedico estas canciones:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* https://www.youtube.com/watch?v=QbUJFg8yAHk&list=RDGMEM6CZm14o9sc-Q22TIneLI8gVMQbUJFg8yAHk&start_radio=1&ab_channel=StephanieBajar
+* https://www.youtube.com/watch?v=0C1cVATvlQk&ab_channel=LaloVega
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Como podrás notar, he dedicado mucho esfuerzo para crear esta pequeña plataforma, quiero que sepas, que si estás leyendo esto, es porque realmente te tengo mucho aprecio Blanquita, realmente te quiero mucho.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+R.C.C.
