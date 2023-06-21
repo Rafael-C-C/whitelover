@@ -13,7 +13,7 @@ theme = 'hugo-blog-awesome'
     weight = 10
   [[menu.main]]
     pageRef="posts"
-    name = 'Cartas virtuales'
+    name = 'Cartas digitales'
     url = '/posts/'
     weight = 20
   [[menu.main]]

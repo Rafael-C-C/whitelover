@@ -1,5 +1,5 @@
 ---
-title: "Me presento, soy Rafa-blog"
+title: "Me presento, soy Rafa'Site"
 date: 2023-06-20T21:34:24-06:00
 draft: false
 ---
@@ -10,9 +10,10 @@ Bueno, me preguntaste qué es lo que te iba a dar en lugar de la infografía del
 
 Me presento, soy la pequeña plataforma donde podrás leer las "cartas digitales" que estarán disponibles única y exclusivamente para ti.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+
+¿Por qué lo hago?
+
+Lo veo como una manera para poder expresarte mis sentimientos hacia ti, de una forma que se sienta más especial que con un mensaje de texto.
+
+Busco sacarte una sonrisa y alegrarte el alma con mi tecnológica forma de expresión.
 
