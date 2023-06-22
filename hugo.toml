@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-blog-awesome'
 
+[params]
+  ##toc = true
+  goToTop = true
+
 [menu]
   [[menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
