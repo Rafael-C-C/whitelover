@@ -14,8 +14,13 @@ Además de las "cartas digitales", también puedo dedicarte canciones aquí, pue
 
 Sí, te dedico estas canciones:
 
-* https://www.youtube.com/watch?v=QbUJFg8yAHk&list=RDGMEM6CZm14o9sc-Q22TIneLI8gVMQbUJFg8yAHk&start_radio=1&ab_channel=StephanieBajar
-* https://www.youtube.com/watch?v=0C1cVATvlQk&ab_channel=LaloVega
+---
+{{< youtube QbUJFg8yAHk >}}
+
+<br>
+
+{{< youtube 0C1cVATvlQk >}}
+---
 
 Como podrás notar, he dedicado mucho esfuerzo para crear esta pequeña plataforma, quiero que sepas, que si estás leyendo esto, es porque realmente te tengo mucho aprecio Blanquita, realmente te quiero mucho.
 
