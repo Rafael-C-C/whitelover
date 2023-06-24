@@ -12,16 +12,12 @@ Es un sitio en el cual podrás ver lo que he denominado como "cartas digitales" 
 
 Además de las "cartas digitales", también puedo dedicarte canciones aquí, pues en muchas ocasiones, los sentimientos que no podemos expresar los podemos demostrar con una canción. 
 
-Sí, te dedico estas canciones:
+Por ejemplo:
 
 ---
-{{< youtube QbUJFg8yAHk >}}
-
-<br>
-
 {{< youtube 0C1cVATvlQk >}}
 ---
 
-Como podrás notar, he dedicado mucho esfuerzo para crear esta pequeña plataforma, quiero que sepas, que si estás leyendo esto, es porque realmente te tengo mucho aprecio Blanquita, realmente te quiero mucho.
+Como podrás notar, he dedicado mucho esfuerzo para crear esta pequeña plataforma, quiero que sepas, que si estás leyendo esto, es porque realmente te tengo mucho aprecio y de corazón espero que te haya gustado.
 
 R.C.C.
