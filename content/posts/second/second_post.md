@@ -6,4 +6,8 @@ draft: false
 
 Si estás leyendo esto, es porque decidí darte el qr y te dije que fueron los de gastronomía.
 
-Pero bueno, realmente espero que te esté gustando el sitio, es algo que me ha apasionado mucho, y realmente he estado muy ansioso antes de dartelo, así que disculpa sino puedo expresarme tan facilmente, cada día mejoro un poquito más.
+Pero bueno, realmente espero que te esté gustando el sitio, pues el hacerlo me ha hecho muy feliz y me ha llenado de emociones muy variadas.
+
+#### ¿A qué me refiero con "El segundo puede ser el primero"?
+
+Bueno, es algo que me encantaría explicarte primero para luego escribirlo aquí...

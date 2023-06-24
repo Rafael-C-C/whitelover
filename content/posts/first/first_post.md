@@ -6,15 +6,17 @@ draft: false
 
 El día en que te expresé mmis sentimientos me preguntaste qué es lo que te iba a dar en lugar de la infografía del pdf. Realmente no quise explicarte nada porque prefería demostrartelo cuando ya estuviera listo.
 
-¿Qué es lo que soy?
+#### ¿Qué es lo que soy?
 
 Imagina esta plataforma como un buzón en el cual estarás recibiendo lo que he denominado como "Cartas digitales"
 
-¿Qué es una carta digital?
+#### ¿Qué es una carta digital?
 
 Como su nombre lo indica, son cartas de manera digital, cada una de ellas estará escrita de mi para ti, con todo el cariño que mi ser puede desbordar.
 
-¿Por qué lo hago?
+#### ¿Por qué lo hago?
+
+##### Respuesta rápida: Soy muy detallista (pero no le digas a nadie)
 
 Lo veo como una manera para poder expresarte mis sentimientos hacia ti, de una forma que se sienta más especial que con un mensaje de texto.
 
