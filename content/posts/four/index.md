@@ -1,7 +1,7 @@
 ---
 title: "¿Me explicas?"
 date: 2023-06-28T21:13:06-06:00
-draft: true
+draft: false
 ---
 ### Yo escribo, tu lees ¿y luego?
 
@@ -17,10 +17,14 @@ Esto último viene representando una de las principales razones para la elaborac
 
 ##### ¿De qué hablas?
 
-Bueno, como sabes, soy una persona muy expresiva y como habrás notado, soy muy detallista, entonces yo sé que a veces te apenas con las cosas que te digo, menciono o hago para ti. Gracias a este sitio podemos solventar ambas partes, yo te expreso lo que siento y tu puedes apreciarlo a tu manera,a tu propio ritmo sin la presión de tener que reaccionar o decirme algo al respecto. 
+Bueno, como sabes, soy una persona muy expresiva y como habrás notado, soy muy detallista, entonces yo sé que a veces te apenas con las cosas que te digo, menciono o hago para ti y no sabes como expresar con palabras lo que con un abrazo puedes expresar. 
+
+Gracias a este sitio podemos solventar ambas partes, yo te expreso lo que siento y tu puedes apreciarlo a tu manera,a tu propio ritmo sin la presión de tener que reaccionar o decirme algo al respecto. 
 
 Es por eso mismo que no suelo preguntarte nada sobre las cartas, prefiero que las disfrutes a tu manera, de esta forma, el día que me digas algo al respecto, sabré que ya tienes una mayor confianza y aceptación por todo esto.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-LkmFwYvyd8?start=210" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        Soy feliz estando a tu lado 
+        Y más cuando reímos juntos.
+
 
 
