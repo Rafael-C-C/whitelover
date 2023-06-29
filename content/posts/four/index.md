@@ -23,8 +23,4 @@ Gracias a este sitio podemos solventar ambas partes, yo te expreso lo que siento
 
 Es por eso mismo que no suelo preguntarte nada sobre las cartas, prefiero que las disfrutes a tu manera, de esta forma, el día que me digas algo al respecto, sabré que ya tienes una mayor confianza y aceptación por todo esto.
 
-        Soy feliz estando a tu lado 
-        Y más cuando reímos juntos.
-
-
 
