@@ -5,7 +5,7 @@ date: '2023-06-20'
 author: Hugo Authors
 ---
 
-Rafa'Site está creado a base de comandos, códigos y mucho cariño.
+WhiteLover está creado a base de comandos, códigos y mucho cariño.
 
 Es un sitio en el cual podrás ver lo que he denominado como "cartas digitales" las cuales son escritas y programadas por tu servidor, cada una de las cartas que existan y existirán, estarán creadas con sentimientos puros y honestos, los cuales espero puedan brindarte una alegría cada vez que los leas.
 

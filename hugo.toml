@@ -1,8 +1,9 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-blog-awesome'
+theme = 'awesome'
 
+##hugo-blog-awesome
 [params]
   ##toc = true
   goToTop = true
@@ -29,9 +30,9 @@ theme = 'hugo-blog-awesome'
 [params.author]
   avatar = "me.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Rafa'Site"
+  intro = "WhiteLover"
   name = "R.C.C"
-  description = "Una plataforma diseñada únicamente para sacarte una sonrisa con cada clic"
+  description = "Una plataforma diseñada únicamente para sacarte una sonrisa con cada clic. Creada por Rafael C.C."
 
 # Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
 [params.browserconfig]
@@ -47,4 +48,4 @@ url = "https://www.youtube.com/watch?v=0C1cVATvlQk&ab_channel=LaloVega"
 
 [[params.socialIcons]]
 name = "youtube"
-url = "index.xml"
+url = "https://www.youtube.com/watch?v=SW6_Y332A-E&ab_channel=armxndo"
