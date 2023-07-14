@@ -2,6 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'WhiteLover'
 theme = 'awesome'
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+
 
 ##hugo-blog-awesome
 [params]
