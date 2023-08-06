@@ -1,6 +1,6 @@
 ---
 title: "Algo rápido"
-date: 2023-08-04T15:33:42-06:00
+date: 2023-08-05T15:33:42-06:00
 draft: false
 ---
 

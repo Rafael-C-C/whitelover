@@ -3,43 +3,50 @@ languageCode = 'en-us'
 title = 'WhiteLover'
 theme = 'awesome'
 enableEmoji = true
-ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+ignoreErrors = [
+  "additional-script-loading-error",
+] # ignore error of loading additional scripts.
 
 
 ##hugo-blog-awesome
 [params]
-  ##toc = true
-  goToTop = true
+##toc = true
+goToTop = true
 
 [menu]
-  [[menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Inicio'
-    url = '/'
-    weight = 10
-  [[menu.main]]
-    pageRef="posts"
-    name = 'Cartas digitales'
-    url = '/posts/'
-    weight = 20
-  [[menu.main]]
-    pageRef="about"
-    name = 'Sobre el sitio'
-    url = '/Sobre el sitio/'
-    weight = 30
+[[menu.main]]
+# The page reference (pageRef) is useful for menu highlighting
+# When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+pageRef = "/"
+name = 'Inicio'
+url = '/'
+weight = 10
+[[menu.main]]
+pageRef = "posts"
+name = 'Cartas digitales'
+url = '/posts/'
+weight = 20
+[[menu.main]]
+pageRef = "about"
+name = 'Sobre el sitio'
+url = '/Sobre el sitio/'
+weight = 30
+[[menu.main]]
+pageRef = "songs_4_you"
+name = 'Canciones'
+url = '/Canciones/'
+weight = 40
 
 [params.author]
-  avatar = "me.jpg" # put the file in assets folder; also ensure that image has same height and width
-  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "WhiteLover"
-  name = "R.C.C"
-  description = "Una plataforma diseñada únicamente para sacarte una sonrisa con cada clic. Creada por Rafael C.C."
+avatar = "portrait.jpg" # put the file in assets folder; also ensure that image has same height and width
+# Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+intro = "WhiteLover"
+name = "R.C.C"
+description = "Una plataforma diseñada únicamente para sacarte una sonrisa con cada clic. Creada por Rafael C.C."
 
 # Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
 [params.browserconfig]
-  TileColor = "#2d89ef" # default windows 10 blue tile color
+TileColor = "#2d89ef" # default windows 10 blue tile color
 
 [[params.socialIcons]]
 name = "youtube"
